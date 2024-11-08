@@ -25,7 +25,7 @@ public class Main {
 	}
 
 	public static void main(String[] args) {
-		Main calculator = new Main();
+		Main calculator = new Main()
 		
 		// Test cases
 		System.out.println("Test Case 1 (5 + 5): " + calculator.add(5, 5));
